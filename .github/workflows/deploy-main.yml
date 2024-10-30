@@ -30,4 +30,4 @@ jobs:
           username: ${{ secrets.SERVER_USER }}
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
-          script: whoami
+          script: ls
