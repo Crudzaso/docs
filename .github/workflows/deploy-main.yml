@@ -16,4 +16,7 @@ jobs:
           key: ${{ secrets.SERVER_SSH_KEY }}
           envs: PATH,NAME_SERVICE
           script: |
-            mkdir test
+            cd "${{ secrets.PATH }}"
+            git pull origin main
+            git fetch
+            pm2 restart "${{ secrets.NAME_SERVICE}}"
