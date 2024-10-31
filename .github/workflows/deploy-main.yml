@@ -19,5 +19,4 @@ jobs:
             cd "${{ secrets.PATH }}"
             git pull origin main
             git fetch
-            source ~/.bashrc
             pm2 restart "${{ secrets.NAME_SERVICE}}"
