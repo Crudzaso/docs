@@ -8,9 +8,6 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Ensure bash is installed
-        run: sudo apt-get install -y bash
-   
       - name: executing remote ssh commands using password
         uses: appleboy/ssh-action@v0.1.6
         env:
@@ -24,4 +21,5 @@ jobs:
           script: |
             cd $PATH
             git pull origin main
+            git fetch
             pm2 restart $NAME_SERVICE
