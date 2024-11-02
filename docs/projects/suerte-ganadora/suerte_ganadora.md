@@ -42,6 +42,3 @@
 - Automated backups
 - Performance monitoring
 
-!!! note
-    Asegúrate de probar la plataforma antes de la entrega final.
-
