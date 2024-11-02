@@ -27,21 +27,20 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
+          sidebarPath: './sidebars.ts'
           },
+        // blog: {
+        //   showReadingTime: true,
+        //   feedOptions: {
+        //     type: ['rss', 'atom'],
+        //     xslt: true,
+        //   },
           
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn'
-        },pages: {
+        //   onInlineTags: 'warn',
+        //   onInlineAuthors: 'warn',
+        //   onUntruncatedBlogPosts: 'warn'
+        // },
+        pages: {
           path: 'src/pages'
         }
         ,
@@ -63,16 +62,17 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'projectsSidebar',
           position: 'left',
           label: 'Projects',
         },
         {
-          to: '/blog', 
+          type: 'docSidebar',
+          sidebarId: 'infrastructureSidebar',
           label: 'Infrastructure', 
           position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Crudzaso',
           label: 'GitHub',
           position: 'right',
         },
