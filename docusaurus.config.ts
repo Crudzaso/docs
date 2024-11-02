@@ -86,11 +86,11 @@ const config: Config = {
           items: [
             {
               label: 'Infrastructure',
-              to: '/docs/intro',
+              to: '/docs/infrastructure/introduction',
             },
             {
               label: 'Projects',
-              to: '/docs/intro',
+              to: '/docs/projects/introduction',
             }
             
           ],
@@ -100,7 +100,7 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/NhkMa4FY7P',
             }
           ],
         },
@@ -109,7 +109,7 @@ const config: Config = {
           items: [
             {
               label: 'Website',
-              href: "https://www.crudzaso.com"
+              href: "https://crudzaso.com"
             },
             {
               label: 'GitHub',
