@@ -46,13 +46,19 @@ const config: Config = {
         }
         ,
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: ['./src/css/custom.css',
+          './src/css/suerteGanadora.css',
+
+          //aqui pueden seguir agregando sus estilos 
+
+          ]
         },
       } satisfies Preset.Options,
     ],
   ],
 
   themeConfig: {
+    
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Crudzaso',
