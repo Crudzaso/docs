@@ -1,107 +1,107 @@
 <div class="suerte-ganadora-doc">
-  <h1># Suerte Ganadora Documentación Notion</h1>
-  <p>Transformando la manera de realizar rifas en línea</p>
+  <h1># Lucky Draw Notion Documentation</h1>
+  <p>Transforming the way online raffles are conducted</p>
 
-  <h2>📌 Información General</h2>
+  <h2>📌 General Information</h2>
   <ul>
-    <li><strong>Duración</strong>: 4 semanas</li>
-    <li><strong>Equipo</strong>: 3 personas</li>
-    <li><strong>Metodología</strong>: Agile/Scrum</li>
-    <li><strong>Entrega</strong>: Noviembre 2024</li>
+    <li><strong>Duration</strong>: 4 weeks</li>
+    <li><strong>Team</strong>: 3 people</li>
+    <li><strong>Methodology</strong>: Agile/Scrum</li>
+    <li><strong>Delivery</strong>: November 2024</li>
   </ul>
 
-  <h2>🎨 Manual de Marca</h2>
-  <h3>Paleta de Colores</h3>
+  <h2>🎨 Brand Manual</h2>
+  <h3>Color Palette</h3>
   <table>
     <thead>
       <tr>
         <th>Color</th>
-        <th>Código Hex</th>
-        <th>Descripción</th>
+        <th>Hex Code</th>
+        <th>Description</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Principal</td>
+        <td>Main</td>
         <td>#2C3E50</td>
-        <td>Azul marino oscuro - Confianza y profesionalismo</td>
+        <td>Dark navy blue - Trust and professionalism</td>
       </tr>
       <tr>
-        <td>Secundario</td>
+        <td>Secondary</td>
         <td>#E74C3C</td>
-        <td>Rojo coral - Emoción y urgencia</td>
+        <td>Coral red - Emotion and urgency</td>
       </tr>
       <tr>
-        <td>Acento</td>
+        <td>Accent</td>
         <td>#F1C40F</td>
-        <td>Amarillo dorado - Premios y victoria</td>
+        <td>Golden yellow - Prizes and victory</td>
       </tr>
     </tbody>
   </table>
 
-  <h2>📅 Plan de Sprints</h2>
-  <h3>Sprint 1: Planificación y Diseño</h3>
+  <h2>📅 Sprint Plan</h2>
+  <h3>Sprint 1: Planning and Design</h3>
   <table>
     <thead>
       <tr>
-        <th>Tarea</th>
-        <th>Estado</th>
-        <th>Prioridad</th>
+        <th>Task</th>
+        <th>Status</th>
+        <th>Priority</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Entrega del documento de planificación</td>
-        <td>🟡 En proceso</td>
-        <td>Alta</td>
+        <td>Delivery of the planning document</td>
+        <td>🟡 In progress</td>
+        <td>High</td>
       </tr>
       <tr>
-        <td>Definición de requerimientos</td>
-        <td>⚪ Pendiente</td>
-        <td>Alta</td>
+        <td>Definition of requirements</td>
+        <td>⚪ Pending</td>
+        <td>High</td>
       </tr>
     </tbody>
   </table>
 
-  <h2>👥 Equipo y Responsabilidades</h2>
+  <h2>👥 Team and Responsibilities</h2>
   
   <div class="team-member">
     <h3>Rafael Meza Sanmartin</h3>
     <p><strong>Role</strong>: Tech Lead & Backend Developer</p>
-    <p>Responsabilidades: Arquitectura del sistema monolítico, implementación de lógica de negocio, gestión de base de datos, coordinación técnica del equipo.</p>
+    <p>Responsibilities: Architecture of the monolithic system, implementation of business logic, database management, technical coordination of the team.</p>
   </div>
 
   <div class="team-member">
     <h3>Juan Fernando Tuiran Pereira</h3>
     <p><strong>Role</strong>: Frontend Lead</p>
-    <p>Responsabilidades: Implementación de Vue.js, diseño de componentes, integración con el backend, maquetación responsive.</p>
+    <p>Responsibilities: Implementation of Vue.js, component design, integration with the backend, responsive layout.</p>
   </div>
 
   <div class="team-member">
     <h3>Sebastian Serna Arango</h3>
     <p><strong>Role</strong>: Full Stack Developer & UI/UX</p>
-    <p>Responsabilidades: Diseño de interfaces, implementación de diseño responsive, desarrollo de funcionalidades auxiliares, testing y QA.</p>
+    <p>Responsibilities: Interface design, implementation of responsive design, development of auxiliary functionalities, testing and QA.</p>
   </div>
 
-  <h2>🎯 Objetivos del Proyecto</h2>
+  <h2>🎯 Project Objectives</h2>
   <div class="objectives">
     <ul>
-      <li>Crear plataforma intuitiva y segura</li>
-      <li>Sistema robusto de pagos</li>
-      <li>Transparencia en sorteos</li>
-      <li>Experiencia responsive</li>
-      <li>Administración eficiente</li>
+      <li>Create an intuitive and secure platform</li>
+      <li>Robust payment system</li>
+      <li>Transparency in draws</li>
+      <li>Responsive experience</li>
+      <li>Efficient management</li>
     </ul>
   </div>
 
-  <h2>🚀 Plan de Despliegue</h2>
+  <h2>🚀 Deployment Plan</h2>
   <div class="note">
-    <p>Consideraciones de Despliegue:</p>
+    <p>Deployment Considerations:</p>
     <ul>
-      <li>Configuración en subdominio</li>
-      <li>Certificados SSL</li>
-      <li>Backups automáticos</li>
-      <li>Monitoreo de rendimiento</li>
+      <li>Configuration in subdomain</li>
+      <li>SSL certificates</li>
+      <li>Automated backups</li>
+      <li>Performance monitoring</li>
     </ul>
   </div>
 </div>
