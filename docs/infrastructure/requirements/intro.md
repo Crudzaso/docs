@@ -2,4 +2,6 @@
 sidebar_position: 1
 ---
 
-# infra
+# explicación
+
+esto es info
