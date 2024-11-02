@@ -8,8 +8,11 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Suerte Ganadora',
-      items: ['suerte-ganadora/notion suerte ganadora'],
+      items: ['suerte-ganadora/notion_suerte_ganadora'],
     },
+
+    //aca pueden agregar mas categorias
+
   ],
 };
 

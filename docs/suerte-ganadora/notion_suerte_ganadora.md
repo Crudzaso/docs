@@ -1,5 +1,5 @@
 <div class="suerte-ganadora-doc">
-  <h1>Suerte Ganadora  Documentación Notion</h1>
+  <h1># Suerte Ganadora Documentación Notion</h1>
   <p>Transformando la manera de realizar rifas en línea</p>
 
   <h2>📌 Información General</h2>
