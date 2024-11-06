@@ -7,7 +7,7 @@ Welcome to the documentation for **TodoRifas**. A web application that is meant 
 
 1. [Introduction](#introduction)
 2. [Key features](#key-features)
-3. [Technologies used](#technologies-used)
+3. [Technologies used](#tetechnologies-used)
 4. [Getting Started](#getting-started)
 5. [Usage](#usage)
 6. [Configuration](#configuration)
@@ -66,6 +66,15 @@ Organizers will have acess to a dashboard for each raffle they are promoting to 
 
 - **Metrics:** the metrics will be in real time. Showing graphics based off the total ammount of tickets and the ones sold so far. it will also include the total revenue and, in the case the prize is cash the remaining ammount of tickets to be sold in order to cover the prize.
 
+### For administrators
+
+#### 1. Users management
+Administrators will have the hability to manage all of the users trought the platform with the following actions:
+- **See users information:** Administrators will be able to see and audit all of the users information.
+
+- **Edit users information:** Administrators will be able to see and edit all of the user's information.
+
+- **Edit users Roles:** Administrators will be able to manage all of the users roles and permissions in the application.
 
 
 ## 💻 Technologies used
