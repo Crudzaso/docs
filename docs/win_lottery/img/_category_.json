@@ -1,7 +1,8 @@
 {
-  "label": "win_lottery",
+  "label": "Win Lottery",
   "position": 10,
   "link": {
-    "type": "pending"
+    "type": "doc",
+    "id": "introduction"
   }
 }
