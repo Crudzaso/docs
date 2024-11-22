@@ -1,4 +1,4 @@
-# TodoRifas: ¡La suerte en tus manos! 🍀
+# 🍀 TodoRifas: ¡La suerte en tus manos! - Techncical documentation
 
 Welcome to the documentation for **TodoRifas**. A web application that is meant for raffles management where the clients will be able to buy raffle tickets but also where the results and winners will be based off Colombian local lotteries 
 
