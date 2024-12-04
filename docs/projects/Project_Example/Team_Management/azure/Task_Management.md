@@ -1,6 +1,6 @@
-# Using Azure DevOps for Task Management
+# Task Management
 
-In this project, Azure DevOps is used to manage tasks and track progress. Here’s how we organize our work using Azure DevOps:
+In this project, Azure DevOps is used to manage tasks and track progress. Here's how we organize our work using Azure DevOps:
 
 1. **Create Work Items**: Each task, bug, or feature is logged as a work item. These work items are categorized by type (e.g., Task, Bug, Feature) and tagged with relevant information.
 2. **Assign Tasks**: Each task is assigned to a developer who is responsible for its completion. Team members can view tasks in the Azure DevOps Kanban board, allowing for easy task tracking and updates.

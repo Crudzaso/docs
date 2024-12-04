@@ -1,8 +1,10 @@
 {
-    "label": "Technical",
-    "position": 2,
-    "link": {
-      "type": "generated-index"
-    }
+  "label": "Technical",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Technical Documentation",
+    "description": "Dive into the technical aspects of the project, including architecture, APIs, integrations, and deployment strategies.",
+    "slug": "/technical"
   }
-  
+}

@@ -1,8 +1,10 @@
 {
-    "label": "Project Example",
-    "position": 2,
-    "link": {
-      "type": "generated-index"
-    }
+  "label": "Project Example",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "Comprehensive Project Example",
+    "description": "Dive into a detailed example of a project structure, including technical insights, management practices, and step-by-step guidelines to implement effective workflows.",
+    "slug": "/project-example"
   }
-  
+}

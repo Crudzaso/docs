@@ -1,8 +1,10 @@
 {
-    "label": "General",
-    "position": 2,
-    "link": {
-      "type": "generated-index"
-    }
+  "label": "General",
+  "position": 0,
+  "link": {
+    "type": "generated-index",
+    "title": "General Documentation",
+    "description": "Get started with the general documentation for the project, including introductory topics and essential concepts.",
+    "slug": "/general"
   }
-  
+}

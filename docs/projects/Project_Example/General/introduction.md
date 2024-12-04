@@ -1,4 +1,4 @@
-# Overview
+# Introduction
 
 This project aims to develop a raffle system for lottery-style games, focusing on creating a transparent, secure, and engaging platform for users. The system will facilitate the organization and participation of users in various raffles, ensuring fairness and compliance with industry standards. The project will also involve the implementation of secure payment gateways, real-time result generation, and user account management.
 

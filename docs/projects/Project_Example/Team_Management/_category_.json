@@ -1,8 +1,10 @@
 {
-    "label": "Team Management",
-    "position": 2,
-    "link": {
-      "type": "generated-index"
-    }
+  "label": "Team Management",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Project Management Overview",
+    "description": "Explore our comprehensive guide to managing projects effectively. This section covers task tracking, team collaboration, version control, and best practices for successful project execution.",
+    "slug": "/team-management"
   }
-  
+}
