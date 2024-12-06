@@ -27,7 +27,15 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts'
+          sidebarPath: './sidebars.ts',
+          includeCurrentVersion: true,
+          lastVersion: 'current',
+          versions: {
+            current: {
+              label: 'Current', // Cambia "Next" por algo más claro
+              path: 'current', // Mantiene la ruta base para la versión actual
+            },
+          },
           },
         // blog: {
         //   showReadingTime: true,
@@ -75,6 +83,11 @@ const config: Config = {
           href: 'https://github.com/Crudzaso',
           label: 'GitHub',
           position: 'right',
+        },
+        {
+          type: 'docsVersionDropdown',
+          position: 'right',
+          dropdownActiveClassDisabled: true, // Deshabilita el enlace activo
         },
       ],
     },
