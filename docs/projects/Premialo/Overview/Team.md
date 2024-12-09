@@ -1,6 +1,6 @@
 ---
     title: 👥Team
-    description: Somos lideres.
+    description:
 ---
 
 # Meet the Team Behind Premialo  

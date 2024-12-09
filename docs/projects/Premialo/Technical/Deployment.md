@@ -1,6 +1,6 @@
 ---
     title: Deployment
-    description: Desplegamos rápido.
+    description:
 ---
 
 # **Deployment Guide for Premialo**

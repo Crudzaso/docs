@@ -1,4 +1,4 @@
 ---
-    description: terminos.
+    description:
 ---
 # 📝 Terms and conditions

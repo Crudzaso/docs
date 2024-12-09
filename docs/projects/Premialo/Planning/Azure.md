@@ -1,6 +1,6 @@
 ---
     title: Azure
-    description: Azure sirve mucho
+    description:
 ---
 
 # Azure Integration for Premialo  

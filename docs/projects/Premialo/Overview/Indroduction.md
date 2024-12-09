@@ -1,6 +1,6 @@
 ---
     title: 📚 Introduction
-    description: Todo lo que tiene para ofrecerte premialo.
+    description:
 ---
 
 # Welcome to Premialo  

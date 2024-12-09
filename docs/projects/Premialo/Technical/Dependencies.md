@@ -1,6 +1,6 @@
 ---
     title: Dependencies
-    description: Dependemos de... 
+    description:
 ---
 
 # **Dependency Documentation for Premialo**

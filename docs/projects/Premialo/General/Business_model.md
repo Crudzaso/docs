@@ -1,6 +1,6 @@
 ---
     title: 💼 Business model
-    description: Negocias que mueven.
+    description:
 ---
 # Business Model for the Monetary Raffle Platform  
 

@@ -1,6 +1,6 @@
 ---
     title: Requirements
-    description: Lteral, literal, lirical, lircal.
+    description:
 ---
 
 # Requirements Documentation for Crudzaso  
