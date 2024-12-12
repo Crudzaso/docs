@@ -1,70 +1,40 @@
 # Business Model 
 
-**The most mountainous raffle** aims to offer an attractive and transparent experience for users, providing the opportunity to participate in sweepstakes through the purchase of tickets. Below is the complete business model logic, cost and profit calculations, and an example of how the net value of 100 tickets sold is calculated.
+**The most mountainous sweepstakes** aims to offer an attractive and transparent experience to users by providing the opportunity to participate in sweepstakes through the purchase of tickets. Below is the complete business model logic, cost and profit calculations, and an example of how the net value of 100 tickets sold is calculated.
 
 
-### **Overview**
+**Overview** **Overview**
 
-This project follows a **B2C** (Business to Consumer) business model, where users buy tickets to participate in raffles. Each ticket represents an opportunity to win prizes while enjoying a clear and fair experience. Revenues generated from ticket sales are shared between the platform and the sweepstakes organizers.
-
-
-### **Revenue Structure**.
-
-1. **Ticket Sales**: The platform earns a percentage of each ticket sale, and this percentage is used to cover operating costs and generate revenue.
-2. **Advertising**: Advertisements within the platform will generate additional revenue.
-
-### **Cost Structure**.
-
-1. **Payment Gateway Commission**: The platform uses a payment gateway that charges a percentage per transaction. This cost is deducted from the value of each ticket.
-2. **Cloud Infrastructure**: The use of cloud services, such as Azure, will have an associated monthly cost.
-3. **Platform Maintenance**: Includes costs related to support, upgrades, and other operational activities.
+This project follows a **B2C** (Business to Consumer) business model, in which users purchase tickets to participate in sweepstakes. Each ticket represents an opportunity to win prizes while enjoying a clear and fair experience. Revenues generated from ticket sales are shared between the platform and the sweepstakes organizers, with a fair distribution of these revenues in accordance with established policies and laws.
 
 
-### Platform Profit** 
+**Revenue structure**.
 
-The platform maintains a profit percentage of **0.5%** on the price of each ticket sold. This percentage is used to cover operating costs and generate revenue for the business.
+1. **Ticket sales**: The platform gets a percentage of each ticket sale, and this percentage is used to cover operational costs and generate revenue.
+
+2. **Cloud infrastructure**: 
+The use of cloud services, such as Azure, will have an associated monthly cost.
+ 3. **Platform maintenance**: 
+Includes costs related to support, upgrades and other operational activities.
 
 
-### **Calculation of the Net Ticket Value**.
+### Platform profit**. 
 
-The business logic also includes a detailed calculation of the net value of each ticket sold, after deducting the payment gateway commission and the platform's profit. Below are the calculations for different types of ballots.
+The platform maintains a profit percentage of **4.4%** on the price of each ticket sold. This percentage is used to cover operating costs and generate revenue for the business.
 
 
-### **Calculations of Net Value per Ticket**.
+**Net Ticket Value Calculation**.
 
-1. **$2,500 COP Ticket**:
-   - **Payment Gateway Commission**: 4.4% of the ticket value.
+The business logic also includes a detailed calculation of the net value of each ticket sold, net of the payment gateway commission and platform profit. Below are the calculations for the different ticket types.
+
+
+**Calculations of the Net Value per Ticket**.
+
+1. **Net Value per Ticket of 2000**:
+   - **Payment gateway commission**: 4.4% of ticket value.
    - Platform Profit**: 0.5% of the ticket value.
-   - Net Value per Ticket**: $1,887.5 COP.
-
-2. **Ticket of $10,000 COP**:
-   - **Payment Gateway Commission**: 4.4% of the ticket value.
-   - Platform Profit**: 0.5% of the ticket value.
-   - Net Value per Ticket**: $9,050 COP.
-
-3. **Ticket of $20,000 COP**:
-   - **Payment Gateway Commission**: 4.4% of the ticket value.
-   - Platform Profit**: 0.5% of the ticket value.
-   - Net Value per Ticket**: $18,600 COP.
-
-4. **Ticket of $50,000 COP**:
-   - **Payment Gateway Commission**: 4.4% of the value of the ticket.
-   - Platform Profit**: 0.5% of the ticket value.
-   - Net Value per Ticket**: $47,250 COP.
-
-
-
-### Calculation of the Net Value per 100 Ballots Sold**: $47,250 COP.
-
-The following is the net value calculation for **100 tickets sold** of each type:
-
-| **Type of Ballot** | **Price** | **Net Value per Ballot** | **Net Value per 100 Ballots Sold** |
-|--------------------|------------|---------------------------|----------------------------------------|
-| **$2,500 COP** | $2,500 | $1,887.5 | $188,750 | |
-| **$10,000 COP** | $10,000 | $9,050 | $905,000 | $905,000 |
-20,000 COP** | $20,000 | $18,600 | $1,860,000 | $1,860,000 | $18,600 | $1,860,000 | $18,600 | $1,860,000 | $1,860,000
-50,000 COP** | $50,000 | $47,250 | $4,725,000 | $4,725,000 | $47,250 | $4,725,000 | $4,725,000 | $4,725,000
-
+   - Net Value per Ticket**: 935$ COP.
+    - In the future, this charge will be added to the users, since it is a loss for the company.
 
 
 ### **Explanation of Calculations**:
@@ -74,8 +44,6 @@ The following is the net value calculation for **100 tickets sold** of each type
 2. **Platform Profit**: The platform retains 0.5% of each ticket sold, as net profit.
 
 3. **Net Value per 100 Ballots**: We multiply the net value per ballot (after deducting the gateway commission and platform profit) by **100**.
-
-
 
 ## **Conclusion**.
 
