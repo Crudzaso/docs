@@ -69,9 +69,9 @@
 Use a consistent and descriptive branch naming scheme. Example:
 - **Feature branches**: `feature/<feature-number>/<description>`.
   - Example: `feature/123/add-carts-purchases`.
-- Bugfix branches**: `bugfix/<numero-issue>/<description>` Example: `bugfix/45/<numero-issue>/<description>`
-  - Example: `bugfix/456/arrange-buttons-login` **Bugfix branches**: `bugfix/<number-issue>/<description>`
-- Hotfix branches**: `hotfix/<description>` Example: `hotfix/<numero-issue>/<description>`
+- **Fix branches**: `fix/<numero-issue>/<description>` 
+  - Example: `fix/456/arrange-buttons-login`
+- **Hotfix branches**: `hotfix/<description>` Example: `hotfix/<numero-issue>/<description>`
   - Example: `hotfix/fix-rearrange-production`
 
 ---

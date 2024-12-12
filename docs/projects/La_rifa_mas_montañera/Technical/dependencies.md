@@ -7,7 +7,7 @@
 
 ## Dependencias del Proyecto
 - composer
-- laravel 7+
+- laravel 8+
 - node.js
 - nvm 
 
@@ -16,7 +16,7 @@
 This project is built with PHP and Laravel. Follow these steps to set up the project:
 
 ### Prerequisites
-- **PHP**: Version 7.4 or higher
+- **PHP**: Version 8.0 or higher
 - **Composer**: Dependency manager for PHP
 - **MySQL**: Database setup
 
@@ -24,8 +24,8 @@ This project is built with PHP and Laravel. Follow these steps to set up the pro
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/suerte-paisa.git
-   cd suerte-paisa
+   git clone https://github.com/your-username/la-rifa-mas-montanera.git
+   cd la-rifa-mas-montanera
    ```
 
 2. **Install dependencies:**:
@@ -44,7 +44,17 @@ This project is built with PHP and Laravel. Follow these steps to set up the pro
     php artisan key:generate
    ```
 
- 5. **Generate an application key:**:
+ 5. **Install npm:**
+ ´´´bash
+   npm i
+ ´´´
+
+ 6. **Run npm:**
+ ´´´bash
+   npm run dev
+ ´´´
+
+ 7. **Generate an application key:**:
 
 - Create a MySQL database.
 - Open the .env file and update the following lines with your database configuration:
@@ -58,15 +68,15 @@ This project is built with PHP and Laravel. Follow these steps to set up the pro
     DB_PASSWORD=your_password
    ```
 
-6. **Run the database migrations:**:
+8. **Run the database migrations:**:
 ```bash
 php artisan migrate
 ```
 
 
-7. **Start the development server:**:
+9. **Start the development server:**:
 ```bash
 php artisan serve
 ```
 
-8. **Access the application: Open your browser and go to http://127.0.0.1:8000.**
+10. **Access the application: Open your browser and go to http://127.0.0.1:8000.**

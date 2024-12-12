@@ -44,8 +44,8 @@
 - Redundancy strategies (e.g., duplicate servers, load balancing, regular backups) should be employed to prevent any failure in one part of the system from affecting the overall operation of the platform.
 
 ### Security:
-- The system must ensure the security of user and payment information. JWT (JSON Web Tokens) based authentication should be used to ensure that only registered and authenticated users can access their data and participate in the raffles.
-- User passwords should be encrypted using secure hashing algorithms (e.g., bcrypt) to prevent data from being vulnerable to leakage or unauthorized access.
+- The system must ensure the security of user and payment information.
+- User passwords should be encrypted using secure hashing algorithms to prevent data from being vulnerable to leakage or unauthorized access.
 - Payments should be processed securely through trusted payment gateways such as MercadoPago or PSE, ensuring compliance with online security regulations (such as PCI DSS) to protect sensitive credit card information.
 
 ### Performance:
