@@ -6,6 +6,7 @@
   
 - **SSL Certificates**: Secure the application with **SSL/TLS certificates** to ensure data encryption between users and the platform. Use **Let’s Encrypt** for free certificates or configure an enterprise-level certificate for better security and trust.
 
+
 - **Automated Backups**: Implement **automated database and file backups** to ensure data integrity and minimize downtime in case of failure. Backups should be scheduled regularly (daily or weekly), and stored securely in a separate location (e.g., cloud storage like Azure Blob Storage, or AWS S3).
 
 - **Performance Monitoring**: Integrate **real-time performance monitoring** tools such as **New Relic** or **Azure Application Insights** to monitor system health, track response times, and identify potential performance bottlenecks. This will help optimize the platform’s speed, scalability, and user experience.

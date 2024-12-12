@@ -11,5 +11,9 @@
 - **Responsibilities**: API development, database management, integration of payment services, implementation of services.
 
 ### Nicolas Aguirre
-- **Role**: FullStack Developer
+- **Role**: Fronted Developer
 - **Responsibilities**: UI design, Vue.Js development, API integration, .
+
+### Samuel Echeverry
+- **Role**: FullStack Developer, DeployDev
+- **Responsibilities**: Algorit and Logic, Vue.Js development.
