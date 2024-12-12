@@ -1,5 +1,5 @@
 ---
-
+    description: At Premialo, every detail counts. Branding is not just about a logo or colors; It is the essence of our identity and the way we connect with our users.
 ---
 
 # 🏆 Branding de Premialo
@@ -23,12 +23,12 @@
 
 - **Logo**:
 
-![Premialo Logo](assets/logo/premialoLogo.png)
+![Premialo Logo](../assets/logo/premialoLogo.png)
 
 - **Color Palette**:
-    - ![#2ECC71](assets/referecen_color/green.png) **Green (#2ECC71)**: Success and growth, evoking prosperity and positivity.
-    - ![#F1C40F](assets/referecen_color/yellow.png) **Yellow (#F1C40F)**: Energy and optimism, symbolizing wealth and joy.
-    - ![#E67E22](assets/referecen_color/orange.png) **Orange (#E67E22)**: Trust and action, inviting enthusiasm and creating a welcoming atmosphere.
+    - ![#2ECC71](../assets/referecen_color/green.png) **Green (#2ECC71)**: Success and growth, evoking prosperity and positivity.
+    - ![#F1C40F](../assets/referecen_color/yellow.png) **Yellow (#F1C40F)**: Energy and optimism, symbolizing wealth and joy.
+    - ![#E67E22](../assets/referecen_color/orange.png) **Orange (#E67E22)**: Trust and action, inviting enthusiasm and creating a welcoming atmosphere.
 
     **Full Palette**: [Coolors](https://coolors.co/2ecc71-e67e22-fafffc-f1c40f)
 
